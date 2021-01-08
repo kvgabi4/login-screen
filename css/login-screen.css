@@ -1,0 +1,12 @@
+.letter {
+    background-color: rgb(142, 219, 42);
+    border-radius: 7px;
+    color: rgb(255,255,255);
+    font-size: 3.5rem;
+    font-weight: 600;
+    height: 3.8rem;
+    justify-content: center;
+    line-height: 3.3rem;
+    text-align: center;
+    width: 3.8rem;
+}
